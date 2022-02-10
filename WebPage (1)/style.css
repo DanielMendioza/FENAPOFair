@@ -1,0 +1,250 @@
+.FoodBody
+{
+    background-color: rgb(255 194 142);
+    font-size: large;
+    font-family: Verdana;
+}
+
+.MainBody
+{
+    background-image: url(https://wallpaperaccess.com/full/5543176.jpg);
+    background-size: cover;
+    background-color: rgb(4 3 77);
+    font-size: large;
+    font-family: Verdana;
+}
+#Maintitle{
+    color: rgba(198, 228, 255, 0.774)
+}
+
+.AttractionBody {
+    background-color: rgb(255 194 142);
+    font-size: large;
+    font-family: Verdana;
+}
+
+.RestOftitles {
+    color: rgb(4 3 77);
+    border: 4px solid #000000;
+    width: 450px;
+    padding: 10px;
+}  
+
+h2 {
+    color:rgb(3, 90, 61)
+}
+h3 {
+    color:rgb(148, 108, 0)
+}
+
+
+p{
+    color: rgb(0, 0, 0);
+}
+
+.gallery {
+    background-color: rgba(198, 228, 255, 0.774);
+    border: 4px solid #000000;
+    padding: 10px;
+}
+
+.Logo{
+    background-color: rgb(0 0 0);
+    right: 55px;
+    top: 30px;
+}
+#Intro {
+    background-image: url(https://www.codigosanluis.com/wp-content/uploads/2020/06/fenapo-gratis-gallardo.jpg);
+    background-size: cover;
+    background-position-y:center;
+    width: auto;
+    height: auto;
+    background-repeat:no-repeat;
+    background-color: rgba(198, 228, 255, 0.774);
+    background-blend-mode: lighten;
+    border: 4px solid #000000;
+    padding: 10px;
+}
+#Chilaquiles
+{
+    border: 2px solid #000000;
+    padding: 10px;
+    background-color: rgba(255, 232, 198, 0.774);
+    background-blend-mode: lighten;
+}
+#Pozole{
+    border: 2px solid #000000;
+    padding: 10px;
+    background-color: rgba(255, 232, 198, 0.774);
+    background-blend-mode: lighten;
+}
+
+#Huasteco {
+    border: 2px solid #000000;
+    padding: 10px;
+    background-color: rgba(255, 232, 198, 0.774);
+    background-blend-mode: lighten;
+}
+
+#FoodServed {
+    background-color: rgba(198, 228, 255, 0.774);
+    background-blend-mode: lighten;
+    border: 2px solid #000000;
+    padding: 10px;
+    
+}
+
+#MGastro {
+    background-color: rgba(163, 109, 0, 0.774);
+    background-blend-mode: lighten;
+    border: 2px solid #000000;
+    padding: 10px;
+}
+#Zacahuil {
+    border: 2px solid #000000;
+    padding: 10px;
+    background-color: rgba(255, 232, 198, 0.774);
+    background-blend-mode: lighten;
+}
+
+
+li a{
+    display: block;
+    width: 400px;
+}
+
+
+.AttractionList {
+    background-color: rgba(198, 228, 255, 0.774);
+    border: 2px solid #000000;
+    padding: 10px;
+    width: 400px;
+    margin: 35px;
+    padding-left: 30px;
+}
+
+.AttractionList:hover {
+    background-color: rgba(255, 232, 198, 0.774);
+    border: 3px solid #000000;
+    padding: 10px;
+    width: 400px;
+    margin: 35px;
+    padding-left: 30px;
+}
+
+.FoodList {
+    background-color: rgba(198, 228, 255, 0.774);
+    border: 2px solid #000000;
+    padding: 10px;
+    width: 400px;
+    margin: 35px;
+    padding-left:30px;
+ }
+.FoodList:hover {
+    background-color: rgba(255, 232, 198, 0.774);
+    border: 3px solid #000000;
+    padding: 10px;
+    width: 400px;
+    margin: 35px;
+    padding-left: 30px;
+}
+
+.FoodList {
+    background-color: rgba(198, 228, 255, 0.774);
+    border: 2px solid #000000;
+    padding: 10px;
+    width: 400px;
+    margin: 35px;
+    padding-left:30px;
+ }
+.FoodList:hover {
+    background-color: rgba(255, 232, 198, 0.774);
+    border: 3px solid #000000;
+    padding: 10px;
+    width: 400px;
+    margin: 35px;
+    padding-left: 30px;
+}
+.FoodList {
+    background-color: rgba(198, 228, 255, 0.774);
+    border: 2px solid #000000;
+    padding: 10px;
+    width: 400px;
+    margin: 35px;
+    padding-left: 30px;
+}
+.PalqList {
+    background-color: rgba(198, 228, 255, 0.774);
+    border: 2px solid #000000;
+    padding: 10px;
+    width: 400px;
+    margin: 35px;
+    padding-left: 30px;
+}
+
+.PalqList:hover {
+    background-color: rgba(255, 232, 198, 0.774);
+    border: 3px solid #000000;
+    padding: 10px;
+    width: 400px;
+    margin: 35px;
+    padding-left: 30px;
+}
+
+div.gallery {
+    background-color:rgb(113 168 146);
+    margin: 5px;
+    margin-top:30px;
+    left: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    float:left;
+    width: 300px;
+}
+
+    div.gallery:hover {
+        border: 1px solid #777;
+    }
+
+    div.gallery img {
+        width: 100%;
+        height: auto;
+    }
+
+div.desc {
+    padding: 20px;
+    text-align: center;
+}
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    /* When moving the mouse over the submit button, add a darker green color */
+    input[type=submit]:hover {
+        background-color: #45a049;
+    }
+
+/* Add a background color and some padding around the form */
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
